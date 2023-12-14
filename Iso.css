@@ -1,0 +1,52 @@
+html {
+   font-family:Franklin Gothic Medium;
+   font-size: 14px;
+   background-image: linear-gradient(1000deg, blue, red);
+}
+html {
+    border-collapse: collapse;
+    witdh: 560px;
+    background_color: violet;
+    text-align: center;
+    margin-top: 0;
+    margin-right: 10px;
+    margin-bottom: 13px;
+    margin-left: 10px;
+    padding: 3px;
+    font-size: 14px
+    list
+    
+}
+li{
+    text-decoration: none;
+    color: #333;
+    margin-right: 15px;
+    font-weight: 400;
+    display: inline-block;
+    padding: 14px 40px;
+    color: #fff;
+    background-image: linear-gradient(45deg, blue, red);
+    font-weight: 14px;
+    border-radius: 30px;
+    border-top-right-radius: 0;
+}
+dl{
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+dl {
+    background-color: red;
+    border: 2px solid;
+    margin-left: 100px;
+    margin-right:100px;
+}
+big {
+    border:2px solide blue;
+    background: red;
+    width: 220px;
+    border-radius: 20px;
+    padding: 20px 40px;
+    float: top-left;
+}
